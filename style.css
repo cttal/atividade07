@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.gu {
+    font-family: 'Instrument Serif', serif;
+    color: crimson;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+}
+   
+.de {
+    font-family: 'Instrument Serif', serif;
+    color: azure;   
+    font-size: medium;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+}
+
